@@ -7,7 +7,7 @@
  <br>
  
 
-[![Badge](https://img.shields.io/badge/-My_Resume-373b38?style=flat&labelColor=af343&logo=Github&logoColor=white)](https://drive.google.com/file/d/18TXuGoRPvH7vqKHrx4QzshzHELcokBsf/view?usp=sharing) 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Vivek_Binjola-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekbinjola)
 
 
