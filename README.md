@@ -15,7 +15,7 @@
  
 
 ## **🔧 Languages & Tools:**
-
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
