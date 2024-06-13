@@ -30,7 +30,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-1572B6?style=flat-square )
+![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge )
  
 
 <br>
